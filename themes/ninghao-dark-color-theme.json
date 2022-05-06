@@ -2,6 +2,13 @@
   "name": "Ninghao Dark",
   "type": "dark",
   "colors": {
+    "editorBracketHighlight.foreground1": "#bbbbbb",
+    "editorBracketHighlight.foreground2": "#bbbbbb",
+    "editorBracketHighlight.foreground3": "#bbbbbb",
+    "editorBracketHighlight.foreground4": "#bbbbbb",
+    "editorBracketHighlight.foreground5": "#bbbbbb",
+    "editorBracketHighlight.foreground6": "#bbbbbb",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#bbbbbb",
     "activityBar.foreground": "#9b9b9b",
     "activityBarBadge.background": "#007acc",
     "badge.background": "#222222",
