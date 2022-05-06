@@ -17,5 +17,10 @@
         "path": "./themes/ninghao-dark-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ninghao/ninghao-vscode-color-theme.git"
+  },
+  "publisher": "ninghao"
 }
